@@ -1,3 +1,19 @@
 header {
     font-size: 24px;
 }
+img {
+    height: 300px;
+    width: 300px;
+}
+.bg-custom{
+    background-color: rgb(132, 141, 100);
+}
+.btn-custom{
+    background-color: rgb(248, 198, 133);
+}
+section{
+    background-color: beige;
+}
+.mb-4 {
+    background-color: beige;
+}
